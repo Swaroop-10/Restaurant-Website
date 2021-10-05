@@ -1,7 +1,7 @@
 ## Swaroop Restaurant Website Readme File
 
 # Github Repo: https://github.com/Swaroop-10/Restaurant-Website
-# Project Link: https://swaroop-10.github.io/To-Do-Application/
+# Project Link: https://swaroop-10.github.io/Restaurant-Website/
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
